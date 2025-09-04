@@ -644,7 +644,18 @@ body {
                 width: 28px;
                 height: 28px;
             }
+
+            .social-icons {
+  width: 200px; /* Match the image width */
+  margin: 10px auto 0; /* Center the container and add top spacing */
+  display: flex;
+  justify-content: center;
+}
+
+
+
         }
+
 
         /* Footer responsive styles */
 @media (max-width: 768px) {
